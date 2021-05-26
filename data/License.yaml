@@ -1,0 +1,9 @@
+# train and val datasets (image directory or *.txt file with image paths)
+train: "/content/drive/MyDrive/yolov5-master/Images/images/train"
+val: "/content/drive/MyDrive/yolov5-master/Images/images/validation"
+
+# number of classes
+nc: 1
+
+# class names
+names: ['License']
